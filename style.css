@@ -1,0 +1,40 @@
+
+.com {
+ 
+    border-radius: 0px 0px 300px 0px;
+}
+.can{
+    border-radius: 0px 0px 190px 0px;
+}
+ div h1 {
+    color: #6F42C1;
+
+}
+
+ div h6 {
+    color: #6F42C199;
+
+}
+
+ div p {
+    color: gray;
+}
+
+.img img {
+    width: 10vw;
+    height: 15vh;
+}
+
+.img .io {
+    height: 10vh;
+    width: 5vw;
+}
+
+.com {
+    background: #F0ECF9;
+    border-radius: 0px 0px 300px 0px;
+}
+ div .btn-outline-secondary {
+    color: white;
+    background: #6F42C1;
+}
